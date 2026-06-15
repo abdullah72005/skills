@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "api-contract-testing": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "skillPath": "skills/api-contract-testing/SKILL.md",
+      "computedHash": "15e2e8b75c60e6c1d5262fe20e13819ea5cb0d1875671daddf02b32ff6bf2d0d"
+    }
+  }
+}
